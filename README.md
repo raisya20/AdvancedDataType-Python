@@ -5,16 +5,16 @@
 4 Kinds of Advaced Data Type
 
 1. LIST
-A list is an ordered data structure with elements separated by a comma and enclosed within square brackets. ist is one of advanced type data used most cause its flexibility. this kind of data aslo allow us to place a dulicated value so useful for something like matrix in matematic
+  A list is an ordered data structure with elements separated by a comma and enclosed within square brackets. ist is one of advanced type data used most cause its flexibility. this kind of data aslo allow us to place a dulicated value so useful for something like matrix in matematic
 
 2. TUPLE
-The tuple data type is an immutable, ordered data type that allows you to store data in Python. Tuple usually use for data you dont wanto to change for example key dictionary
+  The tuple data type is an immutable, ordered data type that allows you to store data in Python. Tuple usually use for data you dont wanto to change for example key dictionary
 
 3. DICTIONARY
-Python's dictionaries are kind of hash table type. They work like associative arrays or hashes found in Perl and consist of key-value pairs. A dictionary key can be almost any Python type, but are usually numbers or strings. Values, on the other hand, can be any arbitrary Python object. Dictonary is use when we want to call value with keyword we already prepare cause usuallu dictionary use for group data with a lot data make hard to count its index if go with manual
+  Python's dictionaries are kind of hash table type. They work like associative arrays or hashes found in Perl and consist of key-value pairs. A dictionary key can be almost any Python type, but are usually numbers or strings. Values, on the other hand, can be any arbitrary Python object. Dictonary is use when we want to call value with keyword we already prepare cause usuallu dictionary use for group data with a lot data make hard to count its index if go with manual
 
 4. SET
-set is an abstract data type that can store unique values, without any particular order. set usually use for matematic use or if we dont want duplicated value
+  set is an abstract data type that can store unique values, without any particular order. set usually use for matematic use or if we dont want duplicated value
 
 Type Operation
 
